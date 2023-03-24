@@ -8,7 +8,7 @@ La capacité des IA à générer des images a récemment touché le grand public
 
 Ces IA sont désormais capables de bien sûr générer des images mais également de modifier des images à l'aide d'un prompt, de les agrandir, de les détailler, de les étendre ou d'en recopier le style.
 
-Ces avancées ont permis à certains artistes de modifier leurs façons de faire. Au lieu de créer d'eux-même une image complète, ils génèrent une image et en corrige ensuite les imperfections. D'autres utilise les images générées comme source d'inspiration, e 
+Ces avancées ont permis à certains artistes de modifier leurs façons de faire. Au lieu de créer d'eux-même une image complète, ils génèrent une image et en corrige ensuite les imperfections. D'autres utilise les images générées comme source d'inspiration, allant même jusqu'à créer des bandes-dessinnés entières faîtes d'image d'IA mais accompagnés de textes fait par l'artiste.
 
 Les générateurs d'images ne touchent cependant pas que les artistes, bien que ceux-ci soient les premiers concernés par les IA génératrices. Les particuliers ont vite pris d'assaut les générateurs comme Stable Diffusion et Midjourney, qui fonctionnent sur le modèle du freemium et laisse les utilisateurs utiliser une partie des capacités de leur algorithme gratuitement afin d'allécher les utilisateurs.
 
