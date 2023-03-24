@@ -56,4 +56,6 @@ Plusieurs collectifs d'artistes ont saisi la justice pour lutter pour leurs droi
 
 Plusieurs évolutions ont déjà eu lieu. 
 
-Au États-Unis, des procès contre les générateurs d'images ont été lancés. Ils permettront d'éclaircir la zone grise du copyright dans lequel sont les IA actuellement.
+Au États-Unis, des procès contre les générateurs d'images ont été lancés. Ils permettront d'éclaircir la zone grise du copyright dans lequel sont les IA actuellement, et sans doute de sanctionner Dall-E, midjourney et les autres générateurs pour leur usages abusifs des images.
+
+En Europe, des lois doivent être débattues au parlement européen en tant qu'EU AI Act. Elles ont pour but de devancer les futurs abus en donnant un cadre légal aux réseaux de neurones et à leur utilisation, ainsi que notamment à leurs abus comme la création d'image à caractère pornographique.
