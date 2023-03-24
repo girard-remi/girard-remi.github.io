@@ -26,15 +26,24 @@ Il faut cependant voir une des limitations de cette technologie : il n'est pas p
 
 ## Diffusion stable
 
-La diffusion stable est le nom d'un regroupement de technique qui ont permis aux IAs d'émerger ces derniers mois.
+La diffusion stable est le nom d'une fusion de deux techniques qui a permis aux IAs d'émerger ces derniers mois. 
 
+Elle utilise les espaces latents, qui sont utilisés dans les modèles du languages pour transformer en vecteur des mots ou des phrases. Une fois placé dans ces espaces de haute dimension, des expressions a priori proches par le sens mais éloignées par l'orthographe vont se retrouver proches. Cela permet de traiter le prompt de l'IA.
 
+Pour ce qui est de la génération d'image, on utilise des réseaux dit "U-net" à cause de leur forme. Ces réseaux sont spécialisés dans le traitement d'image. Ils sont composés de couches successives de convolution qui accummulent de plus en plus une compréhension globale plutôt que locale de l'image jusqu'au niveau le plus bas du U, puis de déconvolution qui permettent de donner forme à ces images.
 
+![U-net](./image/Unet.png)
 
+On entraîne ces réseaux à débruiter des images. Si on les entraîne sur un type d'image en particulier, il a été constaté qu'ils peuvent "halluciner" des images là où on ne leur avait fourni que du bruit, comme on peut le voir sur l'image suivante :
+
+![U-net](./image/chatbruit.png)
+
+Pour pouvoir générer des images correspondant à un prompt, on les fait s'entraîner en prenant en entrée non pas juste l'image à débruiter mais également l'espace latent du prompt, donné par un modèle de language. Cela demande simplement des bases de données énormes pour avoir une IA capable de tout représenter.
 
 
 ## Prompt Engineering
 
+Avec la naissance des IAs génératives à base de prompt est venu l'optimisation de ces prompts. 
 
 # Éthique & Aspects légaux
 
@@ -44,13 +53,17 @@ Les images générées posent plusieurs problèmes.
 
 Premièrement, les images utilisées pour l'entrainement ne sont pas libre de droit. Il est après entraînement impossible de dire quelles images ont été utilisées. Le réseau de neurones agit comme une façon de les mémoriser sans les stocker explicitement, ce qui est difficile à gérer légalement. 
 
-Les IA peuvent également générer des images qui sont exactement semblables à des oeuvres originales d'artistes, ou copier leurs styles à volonté. C'est évidemment problèmatique pour les artistes qui ont le sentiment de se faire remplacer par des machines.
+Les IA peuvent également générer des images qui sont exactement semblables à des oeuvres originales d'artistes, ou copier leurs styles à volonté. C'est évidemment problèmatique pour les artistes qui ont le sentiment de se faire remplacer par des machines, et perdent ainsi leur travail. 
 
 Enfin, il est devenu facile de générer de remplacer un visage dans une vidéo. Cela a lancé les deepfakes, qui ont très vite connu un succès dans deux secteurs: la désinformation et la pornographie.
 
 ## La réaction des artistes
 
 Plusieurs collectifs d'artistes ont saisi la justice pour lutter pour leurs droits aux copyright et à l'abus des générateurs d'images.
+
+C'est à San Fransisco que le premier collectif d'artiste a porté plainte, pour enfrainte du copyright et pratiques anticoncurrentielles. Ils ont attaqué en justice Midjourney, DreamUp et Stabilty mais étonnament pas Dall-E.
+
+Du point de vue des artistes, les IAs permettent de vendre des images dérivées de leurs oeuvres sans leur verser d'argent du copyright. 
 
 ## Évolution légale
 
