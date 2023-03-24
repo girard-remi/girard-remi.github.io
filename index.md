@@ -2,6 +2,29 @@
 layout: default
 ---
 
+```yml
+title: 
+description: [A short description of your site's purpose]
+```
+
+# Introduction Générale 
+
+
+# Historique & Technique
+
+## Réseaux de neurones adversaires
+
+## Diffusion stable
+
+## Prompt Engineering
+
+
+# Éthique & Aspects légaux
+
+## Pourquoi y a-t-il un problème ?
+## La réaction des artistes
+## Évolution légale
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -22,13 +45,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+
 
 ```ruby
 # Ruby code with syntax highlighting
