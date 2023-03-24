@@ -2,8 +2,8 @@ title: Dall-E et autres IA génératrices d'images
 description: Principe, résultats, aspects légaux, perspectives
 show_downloads: false
 theme: jekyll-theme-modernist
-remote_theme: pages-themes/modernist@v0.2.0
-    plugins:
-    - jekyll-remote-theme
+#remote_theme: pages-themes/modernist@v0.2.0
+#    plugins:
+#    - jekyll-remote-theme
 github: 
   is_project_page: false
