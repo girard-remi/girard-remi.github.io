@@ -61,8 +61,8 @@ Premièrement, les images utilisées pour l'entrainement ne sont pas libre de dr
 
 Les IA peuvent également générer des images qui sont exactement semblables à des oeuvres originales d'artistes, ou copier leurs styles à volonté. C'est évidemment problèmatique pour les artistes qui ont le sentiment de se faire remplacer par des machines, et perdent ainsi leur travail. L'IA peut aisément contrefaire le travail des artistes, que ce soit pour imiter leur style, ou pour effectuer des contrefaçons. Les deux images ci-dessous, l'une de Mucha, un fameux artiste art déco du XXème siècle, et l'autre de Midjourney répondant à un prompt demandant d'imiter le style de Mucha, en sont un exemple flagrant.
 
-![Mucha1](./image/mucha.png)
-![Mucha2](./image/mucha.png)
+![Mucha1](./image/mucha.jpg)
+![Mucha2](./image/mucha2.png)
 
 
 Enfin, il est devenu facile de générer de remplacer un visage dans une vidéo. Cela a lancé les deepfakes, qui ont très vite connu un succès dans deux secteurs: la désinformation et la pornographie. Il est extrêmement simple de demander à une IA une caricature ou une position embarassante d'une personnalité connue. Je vous laisse découvrir Trump en majorette, par Midjourney.
