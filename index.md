@@ -2,6 +2,8 @@
 layout: default
 ---
 
+> Ce devoir a été fini à 1h15 le 25 mars, soit légèrement après la date finale.
+
 # Introduction Générale 
 
 La capacité des IA à générer des images a récemment touché le grand public. Les résultats incroyablement réalistes de Midjourney, Stable Diffusion et plus récemment Dall-E ont interessé de nombreuses personnes qui se sont mis à la génération d'image.
