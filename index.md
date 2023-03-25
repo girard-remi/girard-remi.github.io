@@ -45,6 +45,10 @@ Pour pouvoir générer des images correspondant à un prompt, on les fait s'entr
 
 Avec la naissance des IAs génératives à base de prompt est venu l'optimisation de ces prompts. 
 
+Certains proposent leurs services pour réaliser des prompts particulièrement efficaces. Connaître le modèle et certaines de ses particularités permet de parfois de contourner les garde-fous mis en place par les entreprises commercialisant l'IA. Certains, à force de test, parviennent à générer du contenu pornographique en évitant la liste de mot et d'expression bannis sur les générateurs d'images. Sur les générateurs de textes comme chatGPT, cela est certainement plus utiles pour lui poser des questions sur des thèmes interdit par OpenAI. 
+
+Il est déjà possible de vendre sur quelques sites des prompts ou des mot-clés particulièrement efficace pour générer des images réalistes et belles. Bien que cette tendance à vouloir "apprendre le modèle" pour l'utiliser au mieux soit encore populaire, des spécialistes des modèles du language prédisent que ce ne sera pas durable. Ils montrent l'évolution de la compréhension des modèles, d'une version plus récente de Midjourney à l'autre, comme une preuve que ce métier va disparaitre aussi vite qu'il est venu.
+
 # Éthique & Aspects légaux
 
 ## Pourquoi y a-t-il un problème ?
@@ -53,9 +57,16 @@ Les images générées posent plusieurs problèmes.
 
 Premièrement, les images utilisées pour l'entrainement ne sont pas libre de droit. Il est après entraînement impossible de dire quelles images ont été utilisées. Le réseau de neurones agit comme une façon de les mémoriser sans les stocker explicitement, ce qui est difficile à gérer légalement. 
 
-Les IA peuvent également générer des images qui sont exactement semblables à des oeuvres originales d'artistes, ou copier leurs styles à volonté. C'est évidemment problèmatique pour les artistes qui ont le sentiment de se faire remplacer par des machines, et perdent ainsi leur travail. 
+Les IA peuvent également générer des images qui sont exactement semblables à des oeuvres originales d'artistes, ou copier leurs styles à volonté. C'est évidemment problèmatique pour les artistes qui ont le sentiment de se faire remplacer par des machines, et perdent ainsi leur travail. L'IA peut aisément contrefaire le travail des artistes, que ce soit pour imiter leur style, ou pour effectuer des contrefaçons. Les deux images ci-dessous, l'une de Mucha, un fameux artiste art déco du XXème siècle, et l'autre de Midjourney répondant à un prompt demandant d'imiter le style de Mucha, en sont un exemple flagrant.
 
-Enfin, il est devenu facile de générer de remplacer un visage dans une vidéo. Cela a lancé les deepfakes, qui ont très vite connu un succès dans deux secteurs: la désinformation et la pornographie.
+![Mucha1](./image/mucha.png)
+![Mucha2](./image/mucha.png)
+
+
+Enfin, il est devenu facile de générer de remplacer un visage dans une vidéo. Cela a lancé les deepfakes, qui ont très vite connu un succès dans deux secteurs: la désinformation et la pornographie. Il est extrêmement simple de demander à une IA une caricature ou une position embarassante d'une personnalité connue. Je vous laisse découvrir Trump en majorette, par Midjourney.
+
+![Trump](./image/trump.png)
+
 
 ## La réaction des artistes
 
@@ -72,3 +83,9 @@ Plusieurs évolutions ont déjà eu lieu.
 Au États-Unis, des procès contre les générateurs d'images ont été lancés. Ils permettront d'éclaircir la zone grise du copyright dans lequel sont les IA actuellement, et sans doute de sanctionner Dall-E, midjourney et les autres générateurs pour leur usages abusifs des images.
 
 En Europe, des lois doivent être débattues au parlement européen en tant qu'EU AI Act. Elles ont pour but de devancer les futurs abus en donnant un cadre légal aux réseaux de neurones et à leur utilisation, ainsi que notamment à leurs abus comme la création d'image à caractère pornographique.
+
+# The End
+
+student terrified by his project "veille technologique", by Midjourney
+
+![Student](./image/student.png)
